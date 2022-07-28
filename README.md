@@ -37,7 +37,8 @@ I was able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Bootsrap Grid and cards
-- Mongo DB for datatbase
+- Express.js
+- Mongo DB for datatbase, Mongoose
 - Passport, authentication middleware for Node.js
 - Mobile-first workflow
 
