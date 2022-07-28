@@ -1,4 +1,4 @@
-# Full stack - Secrets project
+# Secrets
 
 The web application where users can post their secrets anonymously.   
 
@@ -59,7 +59,7 @@ I was able to:
 
 ## Author
 
-- Website - Ambadi M P (https://github.com/Soaphub/Secret)
+- Website - Ambadi M P 
 
 ## Acknowledgments
 
